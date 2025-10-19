@@ -2,6 +2,7 @@
 #  MEAN AND VARIANCE USING SCILAB
 
 AIM: 
+
 To write a program for mean, variance and cross correlation in SCILAB and verify the output. 
  
 EQUIPMENTS Needed 
@@ -17,8 +18,11 @@ these sample points within the desired range.
 3. Evaluate the Function: Compute the function values at each of these sample points. 
 4. Compute Mean, Variance and Cross Correlation: Use Scilab's functions to calculate the 
 mean and variance of the computed function values. 
-5. Display Results: Output the computed mean variance and Cross Correlation 
-PROCEDURE 
+5. Display Results: Output the computed mean variance and Cross Correlation
+
+   
+PROCEDURE:
+
 • Refer Algorithms and write code for the experiment. 
 • Open SCILAB in System 
 • Type your code in New Editor 
@@ -34,9 +38,13 @@ Calculation:
 
 Output:
 
+<img width="1918" height="1065" alt="image" src="https://github.com/user-attachments/assets/b45fbefa-82ae-41ca-8ba7-26d0e4e491ec" />
+
+
 
 RESULT: 
 Thus, the mean, variance and cross correlation are executed in Scilab and output is verified.
+
 
 
 
