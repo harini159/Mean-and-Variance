@@ -33,10 +33,19 @@ PROCEDURE:
 
 Tabulation:
 
+![WhatsApp Image 2025-11-01 at 7 18 58 PM (1)](https://github.com/user-attachments/assets/2867df8d-90ed-47b3-aa0f-4deec8800632)
 
-Calculation:
+
+![WhatsApp Image 2025-11-01 at 7 18 58 PM (2)](https://github.com/user-attachments/assets/4f8fe1e5-fb5a-47b5-a713-17ca01cd6271)
+
+
+![WhatsApp Image 2025-11-01 at 7 18 58 PM](https://github.com/user-attachments/assets/492133dc-480f-440d-a20d-cd6239fff0d5)
+
 
 Output:
+
+<img width="1600" height="788" alt="image" src="https://github.com/user-attachments/assets/ef514499-4816-4ff9-8195-117e0ea5a4ca" />
+
 
 <img width="1918" height="1065" alt="image" src="https://github.com/user-attachments/assets/b45fbefa-82ae-41ca-8ba7-26d0e4e491ec" />
 
@@ -44,6 +53,7 @@ Output:
 
 RESULT: 
 Thus, the mean, variance and cross correlation are executed in Scilab and output is verified.
+
 
 
 
